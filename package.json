@@ -1,0 +1,16 @@
+{
+  "name": "05-nodecli-node.js-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "app": "node bash.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "request": "^2.88.2"
+  }
+}
